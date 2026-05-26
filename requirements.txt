@@ -1,0 +1,5 @@
+mcp
+langchain-openai
+langgraph
+python-dotenv
+pydantic
