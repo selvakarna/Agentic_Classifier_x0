@@ -1,0 +1,15 @@
+Run commands in CMD:
+
+set AZURE_OPENAI_API_KEY=your_azure_key
+set AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
+set AZURE_OPENAI_DEPLOYMENT=gpt-4o-mini
+
+Install packages:
+
+pip install openai langchain langchain-openai langgraph mcp
+
+###################
+Prompts:
+calculate 10 * 5 and tell weather in Chennai
+weather in London and book hotel
+multiply 7 * 9 and book a room
